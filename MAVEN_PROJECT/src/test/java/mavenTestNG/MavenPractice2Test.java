@@ -16,6 +16,7 @@ public class MavenPractice2Test {
 	@Test
 	public void maven6Test() {
 		System.out.println("Test Case 6");
+		System.out.println("Test Case 7");
 	}
 	}
 
