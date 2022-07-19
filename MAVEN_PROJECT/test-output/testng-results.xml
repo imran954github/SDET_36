@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-18T11:03:00Z" name="Default suite" finished-at="2022-07-18T11:03:00Z" duration-ms="65">
+    <groups>
+    </groups>
+    <test started-at="2022-07-18T11:03:00Z" name="Default test" finished-at="2022-07-18T11:03:00Z" duration-ms="65">
+      <class name="mavenTestNG.MavenPractice1Test">
+        <test-method signature="maven1Test()[pri:0, instance:mavenTestNG.MavenPractice1Test@3f67593e]" started-at="2022-07-18T16:33:00Z" name="maven1Test" finished-at="2022-07-18T16:33:00Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maven1Test -->
+        <test-method signature="maven3Test()[pri:0, instance:mavenTestNG.MavenPractice1Test@3f67593e]" started-at="2022-07-18T16:33:00Z" name="maven3Test" finished-at="2022-07-18T16:33:00Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maven3Test -->
+        <test-method signature="maven2Test()[pri:1, instance:mavenTestNG.MavenPractice1Test@3f67593e]" started-at="2022-07-18T16:33:00Z" name="maven2Test" finished-at="2022-07-18T16:33:00Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maven2Test -->
+      </class> <!-- mavenTestNG.MavenPractice1Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
