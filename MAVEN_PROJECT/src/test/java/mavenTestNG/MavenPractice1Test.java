@@ -18,7 +18,7 @@ public void maven3Test() {
 	System.out.println("Test Case 3");
 	System.out.println("bye bye there");
 	System.out.println("hiiii again");
-	System.out.println("third")
+	System.out.println("third");
 		//hello
 	//hii
 }
